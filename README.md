@@ -1,4 +1,7 @@
 # Natural Selection Simulation
+
+> Edit: This document was created in 2023 with some programming knowledge that I had in 2023. I feel like I have lost most of my programming knowledge in the recent years, but I think that this challenge was my most loved problem to solve through various attempts through many technologies starting from scratch in 2019 to c++ in 2022, to python in 2023. I think with my knowledge and logic now, I will finally be able to solve my problem. Thank you! 
+
 In this simulation, I ran an experiment to test how test subjects would survive natural selection and which attributes would emerge as the prominant. The fully runable code will be in main.py, however, I will package it to EXE eventually.
 
 This experiment uses main factors from this article:
